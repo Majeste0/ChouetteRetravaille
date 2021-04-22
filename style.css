@@ -341,7 +341,15 @@ a:hover {
 
     z-index: 1;
 }
+.indexo {
 
+}
+.indexo_big {
+    float: right;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 28px;
+}
 .nav > li {
 
     margin-top: 4px;
